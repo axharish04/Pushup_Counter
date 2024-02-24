@@ -56,6 +56,5 @@ To use this project, you need to have the following:
 - Ensure that you have sufficient lighting in the room when using the push-up counter. Poor lighting conditions may affect pose detection accuracy.
 
 - Ensure you make sure the entire upper body is visible in the camera to ensure higher accurate detection
-"""
 
 
