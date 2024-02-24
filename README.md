@@ -8,7 +8,7 @@ Dependencies
 
 
 # Define the README content
-readme_content = """# Push-up Counter using Mediapipe
+# Push-up Counter using Mediapipe
 
 This project is a push-up counter that utilizes the Mediapipe library for pose estimation. It allows users to count their push-ups using their webcam and displays the count in real-time along with a leaderboard.
 
