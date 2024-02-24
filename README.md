@@ -6,6 +6,11 @@
 
 This project is a push-up counter that utilizes the Mediapipe library for pose estimation. It allows users to count their push-ups using their webcam and displays the count in real-time along with a leaderboard.
 
+![image](https://github.com/axharish04/Pushup_Counter/assets/129681878/7bd87027-e643-4ffc-bf21-7cd3b8bc93b6)
+
+
+
+
 # Dependencies
 - numpy
 - opencv==4.8.1
