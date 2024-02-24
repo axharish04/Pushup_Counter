@@ -1,15 +1,17 @@
-##Python Implementation of Pushup Counter Games
 
-Dependencies
+
+
+
+# Push-up Counter Implementation using Python
+
+This project is a push-up counter that utilizes the Mediapipe library for pose estimation. It allows users to count their push-ups using their webcam and displays the count in real-time along with a leaderboard.
+
+# Dependencies
 - numpy
 - opencv==4.8.1
 - tkinter
 - mediapipe pose estimation
 
-
-# Push-up Counter using Mediapipe
-
-This project is a push-up counter that utilizes the Mediapipe library for pose estimation. It allows users to count their push-ups using their webcam and displays the count in real-time along with a leaderboard.
 
 ## Requirements
 
